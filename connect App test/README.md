@@ -1,4 +1,4 @@
-# Plutomen Connect - Mobile Automation Framework
+# Mobile Automation Framework
 
 A clean, modular, data-driven mobile automation testing framework for **Plutomen Connect** (`Connect_mobile_ss.apk` / `com.plutomen.ARMS`) on Android physical devices using **Python**, **Appium 3 (UiAutomator2)**, and **Pytest**.
 
