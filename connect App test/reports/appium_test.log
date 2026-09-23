@@ -1,0 +1,7 @@
+[38;5;112m[Appium][0m Welcome to Appium v3.7.0
+[38;5;112m[Appium][0m Non-default server args:
+[38;5;112m[Appium][0m { relaxedSecurityEnabled: [33mtrue[39m }
+[38;5;112m[Appium][0m Enabling relaxed security. All insecure features will be enabled unless explicitly disabled by --deny-insecure
+[38;5;112m[Appium][0m The autodetected Appium home path: C:\Users\baps\.appium
+[38;5;112m[Appium][0m Attempting to load driver uiautomator2...
+[38;5;112m[Appium][0m Requiring driver at C:\Users\baps\.appium\node_modules\appium-uiautomator2-driver\build\lib\index.js
